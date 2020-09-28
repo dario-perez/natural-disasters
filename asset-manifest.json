@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/natural-disasters/static/css/main.5301531b.chunk.css",
-    "main.js": "/natural-disasters/static/js/main.5853eef8.chunk.js",
-    "main.js.map": "/natural-disasters/static/js/main.5853eef8.chunk.js.map",
+    "main.js": "/natural-disasters/static/js/main.59a43bc8.chunk.js",
+    "main.js.map": "/natural-disasters/static/js/main.59a43bc8.chunk.js.map",
     "runtime-main.js": "/natural-disasters/static/js/runtime-main.ca9bc3af.js",
     "runtime-main.js.map": "/natural-disasters/static/js/runtime-main.ca9bc3af.js.map",
     "static/js/2.db4c8980.chunk.js": "/natural-disasters/static/js/2.db4c8980.chunk.js",
     "static/js/2.db4c8980.chunk.js.map": "/natural-disasters/static/js/2.db4c8980.chunk.js.map",
     "index.html": "/natural-disasters/index.html",
-    "precache-manifest.f80f52b7e0f336f6f52aa71a5f99d9bb.js": "/natural-disasters/precache-manifest.f80f52b7e0f336f6f52aa71a5f99d9bb.js",
+    "precache-manifest.2421dfe1b46ea2b88f402ec821189897.js": "/natural-disasters/precache-manifest.2421dfe1b46ea2b88f402ec821189897.js",
     "service-worker.js": "/natural-disasters/service-worker.js",
     "static/css/main.5301531b.chunk.css.map": "/natural-disasters/static/css/main.5301531b.chunk.css.map",
     "static/js/2.db4c8980.chunk.js.LICENSE.txt": "/natural-disasters/static/js/2.db4c8980.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ca9bc3af.js",
     "static/js/2.db4c8980.chunk.js",
     "static/css/main.5301531b.chunk.css",
-    "static/js/main.5853eef8.chunk.js"
+    "static/js/main.59a43bc8.chunk.js"
   ]
 }
